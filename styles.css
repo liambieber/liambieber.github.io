@@ -1,0 +1,20 @@
+#intro{
+  text-align: center;
+  background: red;
+}
+h1{
+  color: green;
+}
+#players{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  background: white;
+}
+#Companies_txt{
+  text-align: center;
+  color: white;
+}
+#Companies{
+  background: blue;
+}
